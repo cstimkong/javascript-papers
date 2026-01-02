@@ -16,7 +16,7 @@ Contents
 
 .. toctree::
 
-   symbexc
+   symbexec
    absinterp
    verification
    security
