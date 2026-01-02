@@ -14,4 +14,6 @@ Contents
    verification
    security
    testing
+   taintanalysis
+   pointeranalysis
    async
