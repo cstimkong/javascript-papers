@@ -18,3 +18,7 @@ Contents
 
    symbexc
    absinterp
+   verification
+   security
+   testing
+
