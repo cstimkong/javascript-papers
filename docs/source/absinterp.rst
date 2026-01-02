@@ -4,16 +4,16 @@ Abstract Interpretation
 TAJS and Nodest
 --------------
 
-TAJS (published in SAS'09) is an abstract interpretation framework for JavaScript type inference.
+* TAJS (SAS '09)
 
-* `Paper URL <https://cs.au.dk/~amoeller/papers/tajs/paper.pdf>`__
+TAJS is an abstract interpretation framework for JavaScript type inference.
 
-* `Repository <https://github.com/cs-au-dk/tajs>`__
+`Paper URL <https://cs.au.dk/~amoeller/papers/tajs/paper.pdf>`__
 
-JSAI 
---------------
+`Repository <https://github.com/cs-au-dk/tajs>`__
+
+* JSAI (ESEC/FSE '14)
 
 
-Multiversion Dependence Graph
------------------------------
+* Graph.js: Multiversion Dependence Graph (PLDI '24')
 
