@@ -29,5 +29,18 @@ Regular Expression Domain (DLS 2016)
 
 *Authors:* Changhee Park, Hyeonseung Im, Sukyoung Ryu
 
+
 Graph.js: Multiversion Dependence Graph (PLDI 2024)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*Paper title:* `Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs <https://www.dpss.inesc-id.pt/~mferreira/assets/pdf/graphjs_pldi24.pdf>`__
+
+*Authors:* Mafalda Ferreira, Miguel Monteiro, Tiago Brito, Miguel E. Coimbra, Nuno Santos, Limin Jia, José Fragoso Santos. 
+
+Nodest (ESEC/FSE 2019)
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+*Paper title:* `Nodest: Feedback-Driven Static Analysis of Node.js Applications <https://dl.acm.org/doi/pdf/10.1145/3338906.3338933>`__
+
+*Authors:* Benjamin Barslev Nielsen, Behnaz Hassanshahi, François Gauthier
+
