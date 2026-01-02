@@ -1,4 +1,4 @@
-JavaScript Paper Repository
+JavaScript-related Papers
 ===================================
 
 This repository hosts the papers on JavaScript analysis, testing, verification, etc.
@@ -16,5 +16,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   symbexc
+   absinterp
