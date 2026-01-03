@@ -9,7 +9,6 @@ KJS (PLDI 2015)
 *Authors:* Daejun Park, Andrei Stefanescu, Grigore Rosu
 
 
-
 The Essence of JavaScript (ECOOP 2010)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -19,5 +18,10 @@ The Essence of JavaScript (ECOOP 2010)
 
 
 
-Towards a type system for analyzing JavaScript programs (ESOP 2005)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tested Semantics (DLS 2012)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*Paper title:*  `A Tested
+Semantics for Getters, Setters, and Eval in JavaScript <https://dl.acm.org/doi/pdf/10.1145/2384577.2384579>`__
+
+*Authors:* Joe Gibbs Politz, Matthew J. Carroll, Benjamin S. Lerner, Justin Pombrio, Shriram Krishnamurthi
