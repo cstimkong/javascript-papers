@@ -3,20 +3,26 @@ Security
 
 
 Taint-style Vulnerability
-------------------------
+----------------------------
 
-General Taint-style Vulnerability
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Graph.js
+Graph.js (PLDI 2024)
+^^^^^^^^^^^^^^^^^^^^^
 
-Graph.js is 
+Explode.js (PLDI 2025)
+^^^^^^^^^^^^^^^^^^^^^^^^
 
-* SecBench.js
 
-* VulCaN
+Dataset: VulCaN (Transactions on Reliability)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Explode.js
+Dataset: SecBench (ICSE 2023)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+ODGen (S&P 2022)
+^^^^^^^^^^^^^^^^^^
+
 
 Deobfuscation
 -------------

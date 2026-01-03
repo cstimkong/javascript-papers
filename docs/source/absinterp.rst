@@ -19,6 +19,12 @@ JSAI (ESEC/FSE 2014)
 
 *Authors:* Vineeth Kashyap, Kevin Gibbons, Kyle Dewey, John Sarracino, Ethan A. Kuefner, Ben Wiedermann, John Wagner, Ben Hardekopf
 
+Determinacy Analysis (PLDI 2013)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*Paper title*: `Dynamic Determinacy Analysis <https://dl.acm.org/doi/pdf/10.1145/2499370.2462168>`__
+
+*Authors:* Max Schäfer, Manu Sridharan, Julian Dolby, Frank Tip
 
 
 Regular Expression Domain (DLS 2016)
@@ -35,7 +41,7 @@ Graph.js: Multiversion Dependence Graph (PLDI 2024)
 
 *Paper title:* `Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs <https://www.dpss.inesc-id.pt/~mferreira/assets/pdf/graphjs_pldi24.pdf>`__
 
-*Authors:* Mafalda Ferreira, Miguel Monteiro, Tiago Brito, Miguel E. Coimbra, Nuno Santos, Limin Jia, José Fragoso Santos. 
+*Authors:* Mafalda Ferreira, Miguel Monteiro, Tiago Brito, Miguel E. Coimbra, Nuno Santos, Limin Jia, José Fragoso Santos.
 
 Nodest (ESEC/FSE 2019)
 ^^^^^^^^^^^^^^^^^^^^^^^^
