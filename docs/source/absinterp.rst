@@ -50,3 +50,10 @@ Nodest (ESEC/FSE 2019)
 
 *Authors:* Benjamin Barslev Nielsen, Behnaz Hassanshahi, François Gauthier
 
+
+Event-based Analysis (OOPSLA 2015)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*Paper title:* `Static Analysis of Event-Driven Node.js JavaScript Applications <https://dl.acm.org/doi/pdf/10.1145/2858965.2814272>`__
+
+*Authors:* Magnus Madsen, Frank Tip, Ondřej Lhotak

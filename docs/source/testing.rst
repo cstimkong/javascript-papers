@@ -21,4 +21,10 @@ Nessie (ICSE 2022)
 *Authors:* Ellen Arteca, Sebastian Harner, Michael Pradel, Frank Tip
 
 
+LambdaTester (OOPSLA 2018)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*Paper title:* `Test Generation for Higher-Order Functions in Dynamic Languages <https://www.franktip.org/pubs/oopsla2018lambdatester.pdf>`__
+
+*Authors:* Marija Selakovic, Michael Pradel, Rezwana Karim, Frank Tip
 
