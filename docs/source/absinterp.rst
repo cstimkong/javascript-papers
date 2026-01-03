@@ -16,8 +16,8 @@ JSAI (ESEC/FSE 2014)
 
 *Paper title:* JSAI: `A Static Analysis Platform for JavaScript <https://dl.acm.org/doi/pdf/10.1145/2635868.2635904>`__
 
-
 *Authors:* Vineeth Kashyap, Kevin Gibbons, Kyle Dewey, John Sarracino, Ethan A. Kuefner, Ben Wiedermann, John Wagner, Ben Hardekopf
+
 
 Determinacy Analysis (PLDI 2013)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
