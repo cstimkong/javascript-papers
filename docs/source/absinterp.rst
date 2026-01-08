@@ -1,6 +1,8 @@
 Abstract Interpretation
 =======================
 
+General Frameworks
+--------------------
 
 TAJS (SAS 2009)
 ^^^^^^^^^^^^^^^^
@@ -26,6 +28,8 @@ Determinacy Analysis (PLDI 2013)
 
 *Authors:* Max Schäfer, Manu Sridharan, Julian Dolby, Frank Tip
 
+String Domain
+---------------
 
 Regular Expression Domain (DLS 2016)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -36,6 +40,17 @@ Regular Expression Domain (DLS 2016)
 *Authors:* Changhee Park, Hyeonseung Im, Sukyoung Ryu
 
 
+String Domains Dynamic Field Access (CC 2014)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*Paper title:* `String Analysis for Dynamic Field Access <https://cs.au.dk/~magnusm/papers/cc14/paper.pdf>`__
+
+*Authors:* Magnus Madsen, Esben Andreasen
+
+
+Other
+--------
+
 Graph.js: Multiversion Dependence Graph (PLDI 2024)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -43,12 +58,6 @@ Graph.js: Multiversion Dependence Graph (PLDI 2024)
 
 *Authors:* Mafalda Ferreira, Miguel Monteiro, Tiago Brito, Miguel E. Coimbra, Nuno Santos, Limin Jia, José Fragoso Santos.
 
-Nodest (ESEC/FSE 2019)
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-*Paper title:* `Nodest: Feedback-Driven Static Analysis of Node.js Applications <https://dl.acm.org/doi/pdf/10.1145/3338906.3338933>`__
-
-*Authors:* Benjamin Barslev Nielsen, Behnaz Hassanshahi, François Gauthier
 
 
 Event-based Analysis (OOPSLA 2015)
