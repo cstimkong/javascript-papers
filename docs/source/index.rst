@@ -1,4 +1,4 @@
-JavaScript-related Papers
+JavaScript-related Paper Collection
 ===================================
 
 This repository hosts the papers on JavaScript analysis, testing, verification, etc.
